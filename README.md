@@ -1,6 +1,6 @@
 ### A Warm Welcome by [Kesha K. Kaneria](http://keshakaneria.me/)👋
 
-Hey, I am pursuing Comouter Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/), RestAPis and Database connectivities along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Ethical Hacking☠ after completing Cyber Forensics👣 and it's Investigation processes🧐.
+Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Ethical Hacking☠ after completing Cyber Forensics👣 and it's Investigation processes🧐.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -38,7 +38,8 @@ Hey, I am pursuing Comouter Science and Engineering with specialization in Cyber
 -->
 <a href="https://imgur.com/agWIDaP"><img align="right" src="https://i.imgur.com/agWIDaP.gif" title="source: imgur.com" /></a>
 -----------------------------------------------------------------------------------------------------------------------------------
-- 💬 Ask me anything, Always ready to help!🤩
+- 💬 Ask me anything!
+     Always ready to help!🤩
 
 - 📫 How to reach me: 
 kesha.kaneria07@gmail.com, will try my best to reply within 24 hrs🏁!
