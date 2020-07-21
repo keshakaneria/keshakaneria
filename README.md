@@ -36,7 +36,7 @@ Hey, I am pursuing Computer Science and Engineering with specialization in Cyber
 <!--
 **keshakaneria/keshakaneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://imgur.com/agWIDaP"><img align="right" src="https://i.imgur.com/agWIDaP.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ilzOXDw"><img align="right" src="https://i.imgur.com/ilzOXDw.gif" title="source: imgur.com" /></a>
 *******
 - 💬 Ask me anything!
      Always ready to help!🤩
@@ -50,5 +50,5 @@ kesha.kaneria07@gmail.com, will try my best to reply within 24 hrs🏁!
 
 ![Kesha's github stats](https://github-readme-stats.vercel.app/api?username=keshakaneria&show_icons=true&hide_border=true&icon_color=5CFF33)
 ******
-**Views:**<br>
-![Visitor Count](https://profile-counter.glitch.me/keshakaneria/count.svg)
+<!-- **Views:**<br>
+![Visitor Count](https://profile-counter.glitch.me/keshakaneria/count.svg) -->
