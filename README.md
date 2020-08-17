@@ -46,9 +46,9 @@ kesha.kaneria07@gmail.com, will try my best to reply within 24 hrs🏁!
 
 
 - ⚡ Fun fact: I love dancing and painting! Also observing people's psychology is what I do everytime to maintain perfect environment!
-
-
-![Kesha's github stats](https://github-readme-stats.vercel.app/api?username=keshakaneria&show_icons=true&hide_border=true&icon_color=5CFF33)
-******
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=keshakaneria&show_icons=true&hide_border=true&icon_color=5CFF33">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshakaneria&hide_border=true&hide=javascript,html">
+</div>
 <!-- **Views:**<br>
 ![Visitor Count](https://profile-counter.glitch.me/keshakaneria/count.svg) -->
