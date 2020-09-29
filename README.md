@@ -1,5 +1,5 @@
 ### A Warm Welcome by [Kesha K. Kaneria](http://keshakaneria.me/)👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeshakaneria%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Ethical Hacking☠ after completing Cyber Forensics👣 and it's Investigation processes🧐.
 
